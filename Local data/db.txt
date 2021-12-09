@@ -1,0 +1,123 @@
+[
+    {
+        "time": "25/12/1920",
+        "title": "Đại hội lần thứ XVIII của Đảng Xã hội Pháp ",
+	"description": "Lãnh tụ Nguyễn Ái Quốc dự Đại hội lần thứ XVIII của Đảng Xã hội Pháp ở Tours, năm 1920.",
+        "image": "1920.jpg"
+    },
+    {
+        "time": "1923-1924",
+        "title": "Bác hồ năm 1923",
+	"description": "Giữa năm 1923, Người sang Liên Xô.Tháng 6 - 1923, sang Liên Xô dự Hội nghị Quốc tế Nông dân và được bầu vào Ban Chấp hành. Năm 1924, tham dự Đại hội lần thứ V Quốc tế Cộng sản.",
+        "image": "1923.jpg"
+    },
+    {
+        "time": "1930",
+        "title": "Đồng chí Nguyễn Ái Quốc năm 1930.",
+	"description": "Đảng Cộng sản Việt Nam ra đời gắn liền với công lao to lớn của đồng chí Nguyễn Ái Quốc, người quyết định thành công Hội nghị hợp nhất các tổ chức cộng sản vào mùa xuân năm 1930, tạo ra bước ngoặt mới cho phong trào cách mạng Việt Nam.",
+        "image": "1930.jpg"
+    },
+    {
+        "time": "31/5/1945",
+        "title": "",
+	"description": " Người dẫn đầu Đoàn đại biểu Chính phủ ta sang đàm phán chính thức với chính phủ Pháp.",
+        "image": "1945.jpg"
+    },
+    {
+        "time": "2/9/1945",
+        "title": "Bác đọc bản tuyên ngôn độc lập",
+	"description": " Người đọc bản Tuyên ngôn Độc lập khai sinh ra nước Việt Nam Dân chủ Cộng hòa vào ngày 2/9/1945 tại quảng trường Ba Đình lịch sử.",
+        "image": "2-9-1945.jpg"
+    },
+    {
+        "time": "1946",
+        "title": "đàm phán chính thức với chính phủ Pháp.",
+	"description": "Chủ tịch Hồ Chí Minh gặp Cao ủy Pháp d’Argenlieu trên vịnh Hạ Long ngày 24/3/1946.",
+        "image": "1946.jpg"
+    },
+    {
+        "time": "1946",
+        "title": "",
+	"description": "Người dạy: “Thực túc thì binh cường” và ngày ngày Người tăng gia sản xuất cùng đồng bào, chiến sĩ.",
+        "image": "1946(2).png"
+    },
+    {
+        "time": "16/9/1950",
+        "title": "Chủ tịch Hồ Chí Minh quan sát Mặt trận Đông Khê trong chiến dịch biên giới 1950.",
+	"description": "Tháng 6/1950, Chủ tịch Hồ Chí Minh và Thường vụ Trung ương Đảng quyết định mở Chiến dịch Biên giới, lấy tên là chiến dịch Lê Hồng Phong II. Đây là Chiến dịch có tầm quan trọng đặc biệt đối với cuộc kháng chiến chống thực dân Pháp. Tỉnh Cao Bằng được chọn làm chiến trường chính của Chiến dịch.",
+        "image": "1950.jpg"
+    },
+    {
+        "time": "1951",
+        "title": "",
+	"description": "Người làm việc trong hang đá tại Việt Bắc vào năm 1951, khi cuộc kháng chiến chống Pháp đang trong thời gian ác liệt nhất.",
+        "image": "1951.jpg"
+    },
+    {
+        "time": "7/3/1951",
+        "title": "",
+	"description": "Người với các đại biểu Đại hội thống nhất Việt Minh – Liên Việt",
+        "image": "1951(2).jpg"
+    },
+
+    {
+        "time": "7/1954",
+        "title": "",
+	"description": "Hồ Chủ tịch sau ngày toàn quốc kháng chiến chống thực dân Pháp thắng lợi (1954).",
+        "image": "1954.jpg"
+    },
+    {
+        "time": "5/1956",
+        "title": "",
+	"description": "Đại biểu học sinh trường trung học Trưng Vương (Hà Nội) đến chúc thọ Hồ Chủ Tịch (5/1956).",
+        "image": "5-1956.png"
+    },
+    {
+        "time": "1956",
+        "title": "",
+	"description": "Hồ Chủ tịch rất quan tâm đến việc giải phóng phụ nữ. Năm 1956, Người căn dặn các cán bộ phụ nữ toàn miền Bắc “đoàn kết chặt chẽ, ra sức tham gia xây dựng chủ nghĩa xã hội ở miền bắc, đấu tranh thống nhất nước nhà và giữ gìn hoà bình thế giới”.",
+        "image": "1956.jpg"
+    },
+    {
+        "time": "1958",
+        "title": "",
+	"description": "Hồ Chủ tịch tát nước chống hạn ở cánh đồng Quang Tô, xã Đại Thanh, tỉnh Hà Tây (1958).",
+        "image": "1958.jpg"
+    },
+    {
+        "time": "1959",
+        "title": "",
+	"description": "Xem hình mẫu xây dựng thủ đô Hà Nội, Người dặn dò về vấn đề nhà ở của nhân dân lao động",
+        "image": "1959.jpg"
+    },
+    {
+        "time": "7/1960",
+        "title": "",
+	"description": "Hồ Chủ tịch chúc mừng đồng chí Tôn Đức Thắng được Quốc hội khoá 2 bầu làm Phó Chủ tịch nước Việt Nam dân chủ cộng hoà (7/1960).",
+        "image": "1960.jpg"
+    },
+    {
+        "time": "1961",
+        "title": "",
+	"description": "Mười vạn nhân dân và cán bộ tỉnh Thanh Hoá hứa với Người sẽ ra sức xây dựng Thanh Hoá thành một tỉnh kiểu mẫu của miền Bắc xã hội chủ nghĩa (1961).",
+        "image": "1961.jpg"
+    },
+    {
+        "time": "1966",
+        "title": "",
+	"description": "Người đến thăm các chiến sĩ của lực lượng phòng không bảo vệ Hà Nội (1966).",
+        "image": "1966.jpg"
+    },
+    {
+        "time": "12/6/1969",
+        "title": "",
+	"description": "Hồ Chủ tịch và Thủ tướng Phạm Văn Đồng đến thăm đoàn đại biểu đặc biệt Cộng hoà miền Nam Việt Nam tại Hà Nội (12/6/1969).",
+        "image": "1969.jpg"
+    },
+    {
+        "time": "",
+        "title": "",
+	"description": "Giờ nghỉ trưa, Người vẫn thường đọc báo.",
+        "image": "12h.jpg"
+    }
+]
