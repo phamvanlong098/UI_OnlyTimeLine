@@ -1,0 +1,121 @@
+<!DOCTYPE html>
+<!-- Created by CodingLab |www.youtube.com/c/CodingLabYT-->
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="UTF-8">
+    <title> Json create </title>
+    <link rel="stylesheet" href="./sidebar.css">
+    <link rel="stylesheet" href="./tab-bar.css">
+    <link rel="stylesheet" href="./content.css">
+    <!-- Boxicons CDN Link -->
+    <link href='https://unpkg.com/boxicons@2.0.7/css/boxicons.min.css' rel='stylesheet'>
+     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+   </head>
+<body>
+  <div class="sidebar">
+    <div class="logo-details">
+        <div class="logo_name">Json Create</div>
+        <i class='bx bx-menu' id="btn" ></i>
+    </div>
+    <ul class="nav-list">
+      <li>
+        <a href="#">
+          <i class='bx bx-file-blank'></i>
+          <span class="links_name">New</span>
+        </a>
+         <span class="tooltip">New</span>
+      </li>
+      <li>
+       <a href="#">
+        <i class='bx bx-folder-open'></i>
+         <span class="links_name">Open</span>
+       </a>
+       <span class="tooltip">Open</span>
+     </li>
+     <li>
+       <a href="#">
+        <i class='bx bx-save' ></i>
+         <span class="links_name">Save</span>
+       </a>
+       <span class="tooltip">Save</span>
+     </li>
+     <li>
+       <a href="#">
+        <i class='bx bx-window-close'></i>
+         <span class="links_name">Close</span>
+       </a>
+       <span class="tooltip">Close</span>
+     </li>
+    </ul>
+  </div>
+  <section class="home-section">
+      <!-- Tab items -->
+      <div class="tab-bar">
+        <!-- <i class='tab-btn bx bx-chevrons-left' ></i>
+        <i class='tab-btn bx bx-chevron-left'></i> -->
+        
+        <div class="tabs">
+          
+          <div class="tab-item " onclick="setActiveTab(event)">
+            <p class="tab-item--title">1977</p>
+            <i class='tab-item--close bx bx-x'></i>
+          </div>
+          <div class="tab-item " onclick="setActiveTab()">
+            <p class="tab-item--title">1977</p>
+            <i class='tab-item--close bx bx-x'></i>
+          </div>
+          <div class="tab-item active" onclick="setActiveTab()">
+            <p class="tab-item--title">1977</p>
+            <i class='tab-item--close bx bx-x'></i>
+          </div>
+          <div class="tab-item " onclick="setActiveTab()">
+            <p class="tab-item--title">1977</p>
+            <i class='tab-item--close bx bx-x'></i>
+          </div>
+          <div class="tab-item " onclick="setActiveTab()">
+            <p class="tab-item--title">1977</p>
+            <i class='tab-item--close bx bx-x'></i>
+          </div>
+          <div class="tab-item " onclick="setActiveTab()">
+            <p class="tab-item--title">1977</p>
+            <i class='tab-item--close bx bx-x'></i>
+          </div>
+        </div>
+        
+       
+        
+        
+        <i class='tab-btn new-tab-btn bx bx-plus' onclick="addNewTab()"></i>
+
+        <!-- <i class='tab-btn bx bx-chevron-right'></i>
+        <i class='tab-btn bx bx-chevrons-right' ></i> -->
+        
+      </div>
+    
+      <!-- Tab content -->
+      <div class="content">
+        <div class="card localtime">
+          <label for="">local time</label>
+          <input type="text" name="localtime" placeholder="vd: 19/5/1890">
+        </div>
+        <div class="card title">
+          <label for="">title</label>
+          <input type="text" name="title" placeholder="vd: Ngày sinh Bác Hồ">
+        </div>
+        <div class="card description">
+          <label for="">description</label>
+          <!-- <input type="text" name="localtime" placeholder="vd: Cách thành phố Vinh chừng 16km, làng Sen thuộc địa phận xã Kim Liên, huyện Nam Đàn là quê gốc của Bác"> -->
+          <textarea name="description" placeholder="vd: Cách thành phố Vinh chừng 16km, làng Sen thuộc địa phận xã Kim Liên, huyện Nam Đàn là quê gốc của Bác"></textarea>
+        </div>
+        <div class="card background">
+          <label for="">background</label>
+          <input type="text" name="background" placeholder="vd: 15984">
+        </div>
+      </div>
+  </section>
+
+  <script src="script.js"></script>
+  <script src="tabBar.js"></script>
+
+</body>
+</html>
