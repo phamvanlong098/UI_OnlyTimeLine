@@ -1,0 +1,100 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>JsonCreate</title>
+    <link rel="stylesheet" href="./tab-bar.css">
+    <!-- Boxicons CDN Link -->
+    <link href='https://unpkg.com/boxicons@2.0.7/css/boxicons.min.css' rel='stylesheet'>
+    
+    
+    <link rel="stylesheet" href="./style.css">
+    <link rel="stylesheet" href="./sidebar.css">
+    <link rel="stylesheet" href="./content.css">
+</head>
+<body>
+    <div class="container">
+        <div class="part sidebar">
+            <div class="logo-details">
+                <div class="logo_name">Json Create</div>
+                <i class='bx bx-menu' id="btn" ></i>
+            </div>
+            <ul class="nav-list">
+              <li>
+                <a href="#">
+                  <i class='bx bx-file-blank'></i>
+                  <span class="links_name">New</span>
+                </a>
+                 <span class="tooltip">New</span>
+              </li>
+              <li>
+               <a href="#">
+                <i class='bx bx-folder-open'></i>
+                 <span class="links_name">Open</span>
+               </a>
+               <span class="tooltip">Open</span>
+             </li>
+             <li>
+               <a href="#">
+                <i class='bx bx-save' ></i>
+                 <span class="links_name">Save</span>
+               </a>
+               <span class="tooltip">Save</span>
+             </li>
+             <li>
+               <a href="#">
+                <i class='bx bx-window-close'></i>
+                 <span class="links_name">Close</span>
+               </a>
+               <span class="tooltip">Close</span>
+             </li>
+            </ul>
+        </div>
+        
+        <div class="part content">
+            <div class="card localtime">
+                <label for="">local time</label>
+                <input type="text" name="localtime" placeholder="vd: 19/5/1890">
+            </div>
+            <div class="card title">
+                <label for="">title</label>
+                <input type="text" name="title" placeholder="vd: Ngày sinh Bác Hồ">
+            </div>
+            <div class="card description">
+                <label for="">description</label>
+                <!-- <input type="text" name="localtime" placeholder="vd: Cách thành phố Vinh chừng 16km, làng Sen thuộc địa phận xã Kim Liên, huyện Nam Đàn là quê gốc của Bác"> -->
+                <textarea name="description" placeholder="vd: Cách thành phố Vinh chừng 16km, làng Sen thuộc địa phận xã Kim Liên, huyện Nam Đàn là quê gốc của Bác"></textarea>
+            </div>
+            <div class="card background">
+                <label for="">background</label>
+                <input type="text" name="background" placeholder="vd: 15984">
+            </div>
+        </div>
+        <div class="part tabbar">
+            <div class="tab-btn">
+                <i class='new-tab-btn bx bx-plus'></i>
+            </div>
+            <div class="tabs">
+                <div class="tab-item active">
+                  <p class="tab-item--title">1977</p>
+                  <i class='tab-item--close bx bx-x'></i>
+                </div>
+                <div class="tab-item">
+                  <p class="tab-item--title">1977</p>
+                  <i class='tab-item--close bx bx-x'></i>
+                </div>
+                <div class="tab-item ">
+                  <p class="tab-item--title">1977</p>
+                  <i class='tab-item--close bx bx-x'></i>
+                </div>
+            </div>
+           
+        </div>
+    </div>
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js" integrity="sha256-/xUj+3OJU5yExlq6GSYGSHk7tPXikynS7ogEvDej/m4=" crossorigin="anonymous"></script>
+    <script src="script.js"></script>
+    <script src="tabBar.js"></script>
+</body>
+</html>
