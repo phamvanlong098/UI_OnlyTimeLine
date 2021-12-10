@@ -1,5 +1,6 @@
 :root {
     --sidebar-width: 78px;
+    --sidebar--open-width: 190px;
     --tabbar-width: 100px;
 }
 
@@ -45,6 +46,11 @@ body {
     top: 0;
     left: var(--sidebar-width);
     height: 100px
+}
+
+.content.open {
+    width: calc(100% - var(--sidebar--open-width) - var(--tabbar-width));
+    left: var(--sidebar--open-width);
 }
 
 .tabbar {

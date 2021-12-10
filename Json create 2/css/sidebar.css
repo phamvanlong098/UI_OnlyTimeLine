@@ -26,7 +26,7 @@
   transition: all 0.5s ease;
 }
 .sidebar.open{
-  width: var(--sidebar-width);
+  width: var(--sidebar--open-width);
 }
 .sidebar .logo-details{
   height: 60px;
@@ -240,4 +240,17 @@
   .sidebar li .tooltip{
     display: none;
   }
+}
+
+.disable {
+  opacity: 0.2;
+}
+
+.disable:hover {
+  background-color: var(--main-color) !important;
+  cursor: default;
+}
+
+.disable:hover i{
+  color: var(--white-color) !important;
 }

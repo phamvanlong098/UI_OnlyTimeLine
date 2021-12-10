@@ -52,3 +52,8 @@
 .card .description__input {
     height: 100%;
 }   
+
+textarea[placeholder]::placeholder,
+input[placeholder]::placeholder {
+    opacity: 0.5;
+}
